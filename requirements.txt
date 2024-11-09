@@ -1,0 +1,4 @@
+gradio==3.0
+requests==2.28.1
+pandas==1.5.3
+openpyxl==3.0.10  # 适用于将 DataFrame 导出到 Excel 文件
